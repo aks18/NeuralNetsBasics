@@ -12,7 +12,7 @@ The repository contains the following projects
 
 3. Week 3
   * Convolutional Neural Networks: **Convolutions** & different kinds of filters to highlight various features in an image. Using the convolutional neural network to reduce the size of input images while not losing the details of the data & images. Applying different filters to highlight different aspects of the image.
-  * Pooling: Used convolutions & pooling to reduce the size of the input images, thereby speeding up the training process while not losing information hidden in the images and data.
+  * **Pooling**: Used convolutions & pooling to reduce the size of the input images, thereby speeding up the training process while not losing information hidden in the images and data.
 
 4. Week 4
   * Using generators to pickup training & testing data itself.
